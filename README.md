@@ -5,7 +5,7 @@
 ##
 
 ### Objetivo 🎯
-- Desenvolver uma pagina de captura 
+- Desenvolver uma pagina de captura para a venda de um curso de adestramento de cães
 ##
 
 ### Tecnologias 💻
